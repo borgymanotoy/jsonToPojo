@@ -1,0 +1,11 @@
+{
+	"mainPassenger":"returnFlight",
+	"emailAddress":"juandelacruz@biyahe.com.ph",
+	"contactNo":"(082) 300-8088",
+	"passengers":[
+		{"type":"adult","gender":"male","firstName":"Borgy","lastName":"Manotoy","dateOfBirth":"08-13-1981","nationality":"Philippines","is_senior":false,"parentPax":-1},
+		{"type":"adult","gender":"female","firstName":"Anita","lastName":"Manotoy","dateOfBirth":"04-14-1948","nationality":"Philippines","is_senior":true,"parentPax":-1},
+		{"type":"child","gender":"male","firstName":"Bagito","lastName":"Manotoy","dateOfBirth":"02-02-2008","nationality":"Philippines","is_senior":false,"parentPax":-1},
+		{"type":"infant","gender":"male","firstName":"Agapito","lastName":"Manotoy","dateOfBirth":"05-05-2015","nationality":"Philippines","is_senior":false,"parentPax":"2.1"}
+	]
+}
